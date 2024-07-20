@@ -54,5 +54,3 @@
 <table><tr><td align="center">
     <img src="https://github.com/user-attachments/assets/887565da-f388-41f0-abe6-18a5c8980ad8" alt="ERD" />
 </td></tr></table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webkuma&hide_progress=true)
